@@ -1,4 +1,4 @@
-# This is my website
+# pycourse
 A project to find Python learning resources
 
 # Description
